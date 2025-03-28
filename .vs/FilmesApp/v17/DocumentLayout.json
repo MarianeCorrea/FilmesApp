@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|c:\\users\\mariane.correa\\source\\repos\\filmesapp\\filmesapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0575CC72-6C2B-42E9-AF9D-3939624AFE4D}|FilmesApp\\FilmesApp.csproj|solutionrelative:filmesapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FilmesApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\App.xaml.cs",
+              "RelativeToolTip": "FilmesApp\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:45:58.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "FilmesApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\AppShell.xaml",
+              "RelativeToolTip": "FilmesApp\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T23:45:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "FilmesApp\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:45:53.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\MauiProgram.cs",
+              "RelativeToolTip": "FilmesApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:44:16.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "FilmesApp\\obj\\Debug\\net9.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:40:18.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "FilmesApp\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:23:27.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FilmesApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\MainPage.xaml",
+              "RelativeToolTip": "FilmesApp\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-28T23:22:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\ViewModels\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\ViewModels\\MovieViewModel.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\ViewModels\\MovieViewModel.cs",
+              "RelativeToolTip": "FilmesApp\\ViewModels\\MovieViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:22:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\Services\\MovieService.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\Services\\MovieService.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\Services\\MovieService.cs",
+              "RelativeToolTip": "FilmesApp\\Services\\MovieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:21:58.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "FilmesApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\mariane.correa\\source\\repos\\FilmesApp\\FilmesApp\\Models\\Movie.cs",
+              "RelativeToolTip": "FilmesApp\\Models\\Movie.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:21:12.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
