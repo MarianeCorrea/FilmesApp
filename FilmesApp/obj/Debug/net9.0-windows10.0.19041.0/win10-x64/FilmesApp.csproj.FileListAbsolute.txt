@@ -469,3 +469,4 @@ C:\Users\mariane.correa\source\repos\FilmesApp\FilmesApp\obj\Debug\net9.0-window
 C:\Users\mariane.correa\source\repos\FilmesApp\FilmesApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\mariane.correa\source\repos\FilmesApp\FilmesApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\mariane.correa\source\repos\FilmesApp\FilmesApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\mariane.correa\source\repos\FilmesApp\FilmesApp\obj\Debug\net9.0-windows10.0.19041.0\win10-x64\FilmesApp.sourcelink.json
